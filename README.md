@@ -1,3 +1,3 @@
 # repositorio para practicar GIT PULL
-## hola mundoooo
+## hola mundoooo + otro mundo
 repositorio para practicar el comando git pull
